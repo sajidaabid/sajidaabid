@@ -24,4 +24,4 @@ A disciplined developer, computer science student, and tech entrepreneur special
 
 ### 🤝 Connect With Me:
 - 💼 **LinkedIn:** [Sajida Abid Malik](https://www.linkedin.com/in/sajida-abid-malik)
-- 🏢 **Agency:** Nexus Automation Agency
+- 🏢 **Agency:** Nexus Automation Agency 
