@@ -1,26 +1,27 @@
+# 👋 Hi there, I'm Sajida Abid Malik! 
 
-# Hi there, I'm Sajida Aabid Malik! 👋 
-
-### 🚀 Rebellious Mindset | Aspiring Cyber Security Expert | Python Programmer
-
-A fierce, disciplined, and forward-thinking tech enthusiast with a strong passion for programming and digital protection. I believe in using technology as a powerful tool to bring justice, solve real-world problems, and make the digital space secure for everyone. 
+### 🚀 Founder & Automation Lead at Nexus Automation Agency
+A disciplined developer, computer science student, and tech entrepreneur specializing in building practical Python automation tools and secure digital solutions.
 
 ---
 
-### 🛠️ What I Do & What I'm Building:
+### 🧰 What I Do & What I'm Building:
 - 🐍 **Python Programming:** Writing efficient, clean code and logic on Pydroid.
-- 🛡️ **Cyber Security:** Learning digital protection, network security, and scripts.
-- 💡 **Problem Solving:** Turning logical thinking into powerful automated tools.
+- 🔐 **Cyber Security & Cryptography:** Learning digital protection, network security, and data encryption scripts (like `secure_vault.py` using Fernet).
+- 🚀 **Automation Tools:** Building powerful scripts like `booster.py` to optimize content workflows.
 
 ---
 
-### 🧰 Tech Stack & Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-Red?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 📊 Tech Stack & Tools:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cyber Security](https://img.shields.io/badge/cyber--security-4EAA25?style=for-the-badge&logo=guardsquare&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📈 My Professional Drive:
-"I don't just write code; I build shields. No compromise on values, no shortcuts—just pure logic and continuous growth."
+### 📝 My Professional Drive:
+*"I don't just write code; I build shields. No compromise on values, no shortcuts—just pure logic and continuous growth."*
+
+---
+
+### 🤝 Connect With Me:
+- 💼 **LinkedIn:** [Sajida Abid Malik](https://www.linkedin.com/in/sajida-abid-malik)
+- 🏢 **Agency:** Nexus Automation Agency
