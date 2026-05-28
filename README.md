@@ -1,27 +1,30 @@
-# 👋 Hi there, I'm Sajida Abid Malik! 
+# 👋 Hi, I'm Sajida Abid Malik
 
-### 🚀 Founder & Automation Lead at Nexus Automation Agency
-A disciplined developer, computer science student, and tech entrepreneur specializing in building practical Python automation tools and secure digital solutions.
-
----
-
-### 🧰 What I Do & What I'm Building:
-- 🐍 **Python Programming:** Writing efficient, clean code and logic on Pydroid.
-- 🔐 **Cyber Security & Cryptography:** Learning digital protection, network security, and data encryption scripts (like `secure_vault.py` using Fernet).
-- 🚀 **Automation Tools:** Building powerful scripts like `booster.py` to optimize content workflows.
+### 🚀 Founder & Lead at Nexus Automation Agency
+I build scalable Python automation tools and high-performance digital solutions that help agencies eliminate operational bottlenecks and scale efficiently.
 
 ---
 
-### 📊 Tech Stack & Tools:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cyber Security](https://img.shields.io/badge/cyber--security-4EAA25?style=for-the-badge&logo=guardsquare&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🛠️ Core Expertise:
+- **Automation Engineering:** Developing custom Python scripts to optimize complex content and business workflows.
+- **Software Architecture:** Building robust, secure, and data-driven software tools like `Nexus-Elite-Architect`.
+- **IT Consulting:** Streamlining agency operations with result-oriented, data-backed technical strategies.
 
 ---
 
-### 📝 My Professional Drive:
-*"I don't just write code; I build shields. No compromise on values, no shortcuts—just pure logic and continuous growth."*
+### 💻 Tech Stack & Tools:
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Cyber Security](https://img.shields.io/badge/cyber--security-4EA245?style=for-the-badge&logo=guard&logoColor=white) 
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🤝 Connect With Me:
+### 🎯 My Professional Drive:
+"I don't just write code; I build systems. No compromise on values, no shortcuts—just pure logic and continuous growth."
+
+---
+
+### 🔗 Connect With Me:
 - 💼 **LinkedIn:** [Sajida Abid Malik](https://www.linkedin.com/in/sajida-abid-malik)
-- 🏢 **Agency:** Nexus Automation Agency 
+- 🏢 **Agency:** [Nexus Automation Agency](https://www.linkedin.com/in/sajida-abid-malik)
